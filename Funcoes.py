@@ -1,3 +1,6 @@
+
+// funcoes para calcular o inss
+
 def calcular_inss(salario_bruto):
 
     if salario_bruto <= 1412:
